@@ -3,7 +3,9 @@
 # About
 Dating App based on user interest and give the user suggestion by the compability score
 
-![BeeInLove FrontPage](https://user-images.githubusercontent.com/90249058/214088151-d3226f9a-71e7-45e6-944e-19acf6aacc8b.png)
+![11](https://user-images.githubusercontent.com/90249058/214089075-dda760a7-b4c9-45e3-9491-07e1899267ee.png)
+![7](https://user-images.githubusercontent.com/90249058/214089836-8c7f8c39-af02-485e-a234-f10361d68e85.png)
+
 
 # Fitur
 - Insert
@@ -12,17 +14,20 @@ Dating App based on user interest and give the user suggestion by the compabilit
 - Match (by the compability score)
 - Connect with Database
 
+# Link
 How to Use App Video
-https://youtu.be/RIAqA9-JbRE
+- https://youtu.be/RIAqA9-JbRE
 
 Background of the app (Main Idea)
-https://youtu.be/woConBkZSWw
+- https://youtu.be/woConBkZSWw
 
 Figma Prototype
-https://www.figma.com/file/5d84C4H4BbT7DNT7jMpJMo/FINAL-OOP?node-id=0%3A1&t=wVy5RBfGLnaZsCrS-0
+- https://www.figma.com/file/5d84C4H4BbT7DNT7jMpJMo/FINAL-OOP?node-id=0%3A1&t=wVy5RBfGLnaZsCrS-0
 
 Pitch Deck Presentation
-https://www.canva.com/design/DAFX8Ksk1uE/v64vMVfIK5sWDdr1DI7VCA/view?utm_content=DAFX8Ksk1uE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+- https://www.canva.com/design/DAFX8Ksk1uE/v64vMVfIK5sWDdr1DI7VCA/view?utm_content=DAFX8Ksk1uE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 Manual Guide BeeInLove
-https://docs.google.com/document/d/1DYexnn4gaL5Qxb5c6xhY1qOyl-Yf0tI9XO0LUzbF1zY/edit?usp=sharing
+- https://docs.google.com/document/d/1DYexnn4gaL5Qxb5c6xhY1qOyl-Yf0tI9XO0LUzbF1zY/edit?usp=sharing
+
+![Final Project OOP LEC (2)](https://user-images.githubusercontent.com/90249058/214093674-9f6cca82-8f92-4db4-b59a-711a1f721c5c.png)
