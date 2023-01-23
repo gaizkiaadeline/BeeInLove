@@ -13,7 +13,7 @@ public class Main{
 //public class Main extends Application {
 //    public void start(Stage primaryStage) {
 //        try {
-//        	File fxmlFile = new File("C:\\Users\\luthf\\Desktop\\UI\\FRONTPAGE.fxml");
+//        	File fxmlFile = new File("D:\Download\AOL\OOP\UI\\FRONTPAGE.fxml");
 //        	URL url = fxmlFile.toURI().toURL();
 //        	Parent root = FXMLLoader.load(url);
 //            Scene scene = new Scene(root);
@@ -23,7 +23,7 @@ public class Main{
 //            Button nextBtn = (Button) root.lookup("#nextBtn");
 //            nextBtn.setOnAction(e -> {
 //            		try {
-//                    	File menuFile = new File("C:\\Users\\luthf\\Desktop\\UI\\application\\MENU.fxml");
+//                    	File menuFile = new File("D:\Download\AOL\OOP\UIapplication\\MENU.fxml");
 //                    	URL menuURL = menuFile.toURI().toURL();
 //                    	Parent menu = FXMLLoader.load(menuURL);
 //                    	primaryStage.setTitle("Menu");
