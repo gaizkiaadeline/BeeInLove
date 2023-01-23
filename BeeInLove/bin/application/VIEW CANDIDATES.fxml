@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="645.0" prefWidth="880.0" style="-fx-background-color: #48A8EA;" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <TableView layoutX="6.0" layoutY="106.0" prefHeight="532.0" prefWidth="867.0" style="-fx-background-color: #99CBEE;">
+        <columns>
+          <TableColumn prefWidth="165.99997472763062" text="Name" />
+          <TableColumn minWidth="6.66668701171875" prefWidth="35.99993896484375" text="Age" />
+            <TableColumn prefWidth="91.33335876464844" text="Major" />
+            <TableColumn prefWidth="96.0" text="Campus" />
+            <TableColumn prefWidth="100.6666259765625" text="Occupation" />
+            <TableColumn prefWidth="162.66671752929688" text="Hobby" />
+            <TableColumn prefWidth="142.00006103515625" text="Favourite Music" />
+        </columns>
+      </TableView>
+      <Label alignment="CENTER" contentDisplay="CENTER" layoutX="248.0" layoutY="23.0" prefHeight="71.0" prefWidth="383.0" text="USER DATABASE" textAlignment="CENTER">
+         <font>
+            <Font name="System Bold" size="44.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
