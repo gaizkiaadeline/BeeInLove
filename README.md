@@ -4,11 +4,11 @@
 Dating App based on user interest and give the user suggestion by the compability score
 
 # Fitur
-Insert
-View (All, Filter: by Gender)
-Delete
-Match
-Connect with Database
+- Insert
+- View (All, Filter: by Gender)
+- Delete
+- Match
+- Connect with Database
 
 How to Use App Video
 https://youtu.be/RIAqA9-JbRE
