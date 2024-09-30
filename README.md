@@ -4,8 +4,8 @@
 Dating App based on user interest and give the user suggestion by the compability score
 
 ![11](https://user-images.githubusercontent.com/90249058/214089075-dda760a7-b4c9-45e3-9491-07e1899267ee.png)
+![Screenshot 2024-09-30 124138](https://github.com/user-attachments/assets/7deeb30a-fb23-4555-8816-301cec856c6d)
 ![7](https://user-images.githubusercontent.com/90249058/214089836-8c7f8c39-af02-485e-a234-f10361d68e85.png)
-
 
 # Fitur
 - Insert
