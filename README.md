@@ -12,7 +12,7 @@ Dating App based on user interest and give the user suggestion by the compabilit
 - View (All, Filter: by Gender)
 - Delete (by UserName)
 - Match (by the compability score)
-- Connect with Database
+- Connect with Database (MySQL)
 
 # Link
 How to Use App Video
